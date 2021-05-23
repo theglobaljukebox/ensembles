@@ -10,7 +10,7 @@ Data is presented in three data tables within raw/
 |-----------------|----------------------------------------------------------------|
 | data.csv        | Codings of the phrasing and breath patterns in each song       |
 | ensembles.csv   | Metadata on the ensembles                                      |
-| societies.csv   | Metadata on the societies from which the instruments originate |
+| societies.csv   | Metadata on the societies from which the ensembles originate |
 
 
 ## Getting started

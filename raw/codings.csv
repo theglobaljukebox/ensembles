@@ -1,0 +1,162 @@
+SORT,VarID,VarTitle,VarDefinition,VarCategory,VarType,Source,UserNotes,VarID_Code,Count,Code,CodeDescription,ShortName
+1,V1,Time Depth,The time of the ensemble's origin in the particular culture named.,,Categorical,Lomax (1968-77),,1_0,18,0,Missing Data,Missing Data
+2,,,,,,,,1_1,587,1,"The ensemble is traditional in the culture, but little or nothing is known about the date of origin.",Traditional
+3,,,,,,,,1_2,26,2,The ensemble is traditional in the culture but known to be archaic.,"Traditional, archaic"
+4,,,,,,,,1_3,13,3,The ensemble is recently acquired by the culture but rare.,"Recent, rare"
+5,,,,,,,,1_4,68,4,The ensemble is recently acquired by the culture and widely used.,"Recent, widely used"
+6,,,,,,,,1_5,39,5,The ensemble's instruments are part of an archaeological collection; time of origin is very recent to 1000 CE.,1000 CE - recent
+7,,,,,,,,1_6,6,6,The ensemble's instruments are part of an archaeological collection; time of origin is 1000 CE to 1 CE.,1 - 1000 CE
+8,,,,,,,,1_7,13,7,The ensemble's instruments are part of an archaeological collection; time of origin is 1 CE to 1000 BCE.,1000 BCE - 1 CE
+9,,,,,,,,1_8,6,8,The ensemble's instruments are part of an archaeological collection; time of origin is 1000 BCE to 3000 BCE.,3000 - 1000 BCE
+10,,,,,,,,1_9,0,9,The ensemble's instruments are part of an archaeological collection; time of origin is prior to 3000 BCE.,Prior to 3000 BCE
+11,V2,Importance of the ensemble in the culture,A judgment of the relative prevalence and importance of the ensemble in the culture that it belongs to.,,Categorical,Lomax (1968-77),,2_0,25,0,Missing Data,Missing Data
+12,,,,,,,,2_1,338,1,The ensemble is common in the culture.,Common
+13,,,,,,,,2_2,309,2,The ensemble is fairly common in the culture.,Fairly common
+14,,,,,,,,2_3,44,3,The ensemble is rare in the culture.,Rare
+15,,,,,,,,2_4,60,4,The ensemble is rare but important in the culture.,Rare but important
+16,V3,Gender composition of the ensemble,The typical gender makeup of members of the ensemble.,,Categorical,Lomax (1968-77),,3_0,56,0,Missing Data,Missing Data
+17,,,,,,,,3_1,484,1,The ensemble is all male.,All male
+18,,,,,,,,3_2,92,2,The ensemble is largely male.,Largely male
+19,,,,,,,,3_3,57,3,The ensemble is about half male and half female.,Half/half
+20,,,,,,,,3_4,11,4,The ensemble is largely female.,Largely female
+21,,,,,,,,3_5,51,5,The ensemble is all female.,All female
+22,,,,,,,,3_6,16,6,The ensemble is all children.,All children
+23,,,,,,,,3_7,9,7,Any combination of the sexes is typical and equally acceptable.,Any combination
+24,V4,Female Leadership,A judgment of how typical it is for the ensemble to be led by a woman.,,Ordinal,Lomax (1968-77),,4_0,174,0,"Missing Data, or only one instrument in the ensemble",Missing Data
+25,,,,,,,,4_1,40,1,The ensemble is always led by a female.,Always
+26,,,,,,,,4_2,18,2,The ensemble is usually led by a female.,Usually
+27,,,,,,,,4_3,57,3,The ensemble is sometimes led by a female.,Sometimes
+28,,,,,,,,4_4,51,4,The ensemble is rarely led by a female.,Rarely
+29,,,,,,,,4_5,436,5,The ensemble is never led by a female.,Never
+30,V5,Number of Functions,The number of functions the ensemble has in the culture.,Function,Ordinal,Lomax (1968-77),,5_0,27,0,Missing Data,Missing Data
+31,,,,,,,,5_1,291,1,The instrument has one function.,One
+32,,,,,,,,5_2,256,2,The instrument has two functions.,Two
+33,,,,,,,,5_3,153,3,The instrument has three functions.,Three
+34,,,,,,,,5_4,49,4,The instrument has more than three functions.,More than three
+35,V6,Most Important Function,The most important function of the ensemble in the culture.,Function,Categorical,Lomax (1968-77),"If a single functional context of an ensemble has several aspects, all of these functions are coded in order of importance on V6-8.",6_0,34,0,Missing Data,Missing Data
+36,,,,,,,,6_1,136,1,Ritual-- magic or religion.,Ritual
+37,,,,,,,,6_2,30,2,Curing rites,Curing
+38,,,,,,,,6_3,16,3,Rites of passage (to adolescence only).,Rites
+39,,,,,,,,6_4,27,4,Courtship,Courtship
+40,,,,,,,,6_5,19,5,"Marriage. Includes betrothal, gift exchange, divorce, etc.",Marriage
+41,,,,,,,,6_6,17,6,Funerary,Funerary
+42,,,,,,,,6_7,10,7,Work,Work
+43,,,,,,,,6_8,20,8,Signalling (other than war).,Signaling
+44,,,,,,,,6_9,11,9,"War. Includes preparation for war, marching, etc.",War
+45,,,,,,,,6_10,166,10,Dance,Dance
+46,,,,,,,,6_11,27,11,Merrymaking,Merrymaking
+47,,,,,,,,6_12,31,12,Calendrical merrymaking,Calendrical merrymaking
+48,,,,,,,,6_13,11,13,Dramatic,Dramatic
+49,,,,,,,,6_14,25,14,Royalty,Royal
+50,,,,,,,,6_15,72,15,Self entertainment,Self-entertainment
+51,,,,,,,,6_16,124,16,"Passive listening. Includes concerts, contemplation, occupational, meditation, entertainment, etc.",Passive listening
+52,,,,,,,,6_17,0,17,Rain-making,Rain
+53,,,,,,,,6_18,0,18,Food-gathering,Food-gathering
+54,,,,,,,,6_19,0,19,Beggars’ instruments,Beggar
+55,,,,,,,,6_20,0,20,"Merchants, pedlars",Merchant
+56,,,,,,,,6_21,0,21,Toy,Toy
+57,,,,,,,,6_22,0,22,Bardic accompaniment,Bardic
+58,V7,Second Most Important Function,The second most important function of the ensemble in the culture.,Function,Categorical,Lomax (1968-77),"If a single functional context of an ensemble has several aspects, all of these functions are coded in order of importance on V6-8.",7_0,296,0,Missing Data,Missing Data
+59,,,,,,,,7_1,33,1,Ritual-- magic or religion.,Ritual
+60,,,,,,,,7_2,7,2,Curing rites,Curing
+61,,,,,,,,7_3,7,3,Rites of passage (to adolescence only).,Rites
+62,,,,,,,,7_4,9,4,Courtship,Courtship
+63,,,,,,,,7_5,8,5,"Marriage. Includes betrothal, gift exchange, divorce, etc.",Marriage
+64,,,,,,,,7_6,6,6,Funerary,Funerary
+65,,,,,,,,7_7,6,7,Work,Work
+66,,,,,,,,7_8,18,8,Signalling (other than war).,Signaling
+67,,,,,,,,7_9,7,9,"War. Includes preparation for war, marching, etc.",War
+68,,,,,,,,7_10,99,10,Dance,Dance
+69,,,,,,,,7_11,84,11,Merrymaking,Merrymaking
+70,,,,,,,,7_12,28,12,Calendrical merrymaking,Calendrical merrymaking
+71,,,,,,,,7_13,15,13,Dramatic,Dramatic
+72,,,,,,,,7_14,36,14,Royalty,Royal
+73,,,,,,,,7_15,36,15,Self entertainment,Self-entertainment
+74,,,,,,,,7_16,81,16,"Passive listening. Includes concerts, contemplation, occupational, meditation, entertainment, etc.",Passive listening
+75,,,,,,,,7_17,0,17,Rain-making,Rain
+76,,,,,,,,7_18,0,18,Food-gathering,Food-gathering
+77,,,,,,,,7_19,0,19,Beggars’ instruments,Beggar
+78,,,,,,,,7_20,0,20,"Merchants, pedlars",Merchant
+79,,,,,,,,7_21,0,21,Toy,Toy
+80,,,,,,,,7_22,0,22,Bardic accompaniment,Bardic
+81,V8,Third Most Important Function,The third most important function of the ensemble in the culture.,Function,Categorical,Lomax (1968-77),"If a single functional context of an ensemble has several aspects, all of these functions are coded in order of importance on V6-8.",8_0,547,0,Missing Data,Missing Data
+82,,,,,,,,8_1,9,1,Ritual-- magic or religion.,Ritual
+83,,,,,,,,8_2,1,2,Curing rites,Curing
+84,,,,,,,,8_3,5,3,Rites of passage (to adolescence only).,Rites
+85,,,,,,,,8_4,10,4,Courtship,Courtship
+86,,,,,,,,8_5,6,5,"Marriage. Includes betrothal, gift exchange, divorce, etc.",Marriage
+87,,,,,,,,8_6,11,6,Funerary,Funerary
+88,,,,,,,,8_7,3,7,Work,Work
+89,,,,,,,,8_8,0,8,Signalling (other than war).,Signaling
+90,,,,,,,,8_9,6,9,"War. Includes preparation for war, marching, etc.",War
+91,,,,,,,,8_10,29,10,Dance,Dance
+92,,,,,,,,8_11,29,11,Merrymaking,Merrymaking
+93,,,,,,,,8_12,17,12,Calendrical merrymaking,Calendrical merrymaking
+94,,,,,,,,8_13,7,13,Dramatic,Dramatic
+95,,,,,,,,8_14,26,14,Royalty,Royal
+96,,,,,,,,8_15,12,15,Self entertainment,Self-entertainment
+97,,,,,,,,8_16,58,16,"Passive listening. Includes concerts, contemplation, occupational, meditation, entertainment, etc.",Passive listening
+98,,,,,,,,8_17,0,17,Rain-making,Rain
+99,,,,,,,,8_18,0,18,Food-gathering,Food-gathering
+100,,,,,,,,8_19,0,19,Beggars’ instruments,Beggar
+101,,,,,,,,8_20,0,20,"Merchants, pedlars",Merchant
+102,,,,,,,,8_21,0,21,Toy,Toy
+103,,,,,,,,8_22,0,22,Bardic accompaniment,Bardic
+104,V9,Presence of Voices,A judgment of how often the ensemble accompanies vocalists.,Voices,Ordinal,Lomax (1968-77),,9_0,230,0,Missing Data,Missing Data
+105,,,,,,,,9_1,157,1,The ensemble always accompanies voices.,Always
+106,,,,,,,,9_2,167,2,The ensemble usually accompanies voices.,Usually
+107,,,,,,,,9_3,109,3,The ensemble sometimes accompanies voices.,Sometimes
+108,,,,,,,,9_4,113,4,The ensemble never accompanies voices.,Never
+109,V10,Accompanying relationship of the ensemble,The typical relationship between the ensemble and the vocalists that it accompanies.,Voices,Categorical,Lomax (1968-77),,10_0,194,0,The ensemble never accompanies voices.,Never
+110,,,,,,,,10_1,192,1,No information on number of voices accompanied.,No info
+111,,,,,,,,10_2,150,2,The ensemble usually accompanies solo voice.,Solo
+112,,,,,,,,10_3,13,3,The ensemble usually accompanies duets.,Duet
+113,,,,,,,,10_4,26,4,The ensemble usually accompanies choruses of 3-5.,Chorus of 3-5 singers
+114,,,,,,,,10_5,102,5,The ensemble usually accompanies choruses of 6 or more.,Chorus of 6 or more singers
+115,,,,,,,,10_6,98,6,The ensemble can accompany any combination of the above equally often.,Any combination
+116,V11,Number of Instruments,"The exact or approximate number of individual instruments in the ensemble. Each instrument is counted separately, even instruments of the same type.",,Ordinal,Lomax (1968-77),,11_0,7,0,Missing Data,Missing Data
+117,,,,,,,,11_1,272,1,1 instrument,1
+118,,,,,,,,11_2,100,2,2 instruments,2
+119,,,,,,,,11_3,62,3,3 instruments,3
+120,,,,,,,,11_4,69,4,4 instruments,4
+121,,,,,,,,11_5,47,5,5 instruments,5
+122,,,,,,,,11_6,49,6,6 instruments,6
+123,,,,,,,,11_7,22,7,7 instruments,7
+124,,,,,,,,11_8,19,8,8 instruments,8
+125,,,,,,,,11_9,8,9,9 instruments,9
+126,,,,,,,,11_10,19,10,10 instruments,10
+127,,,,,,,,11_11,4,11,11 instruments,11
+128,,,,,,,,11_12,13,12,12 instruments,12
+129,,,,,,,,11_13,36,13,13-20 instruments,13-20
+130,,,,,,,,11_14,29,14,21-30 instruments,21-30
+131,,,,,,,,11_15,3,15,31-40 instruments,31-40
+132,,,,,,,,11_16,6,16,41- 50 instruments,41-50
+133,,,,,,,,11_17,1,17,51-60 instruments,51-60
+134,,,,,,,,11_18,1,18,61-70 instruments,61-70
+135,,,,,,,,11_19,0,19,71-80 instruments,71-80
+136,,,,,,,,11_20,1,20,81-90 instruments,81-90
+137,,,,,,,,11_21,1,21,91-98 instruments,91-98
+138,,,,,,,,11_22,7,22,99 instruments or more,99 plus
+139,V12,Number of Instrument Types,The number of instrument types in the ensemble. All individual instruments of the same type are counted as one.,,Ordinal,Lomax (1968-77),,12_0,1,0,Missing Data,Missing Data
+140,,,,,,,,12_1,443,1,1 instrument type,1
+141,,,,,,,,12_2,169,2,2 instrument types,2
+142,,,,,,,,12_3,77,3,3 instrument types,3
+143,,,,,,,,12_4,41,4,4 instrument types,4
+144,,,,,,,,12_5,17,5,5 instrument types,5
+145,,,,,,,,12_6,11,6,6 instrument types,6
+146,,,,,,,,12_7,6,7,7 instrument types,7
+147,,,,,,,,12_8,2,8,8 instrument types,8
+148,,,,,,,,12_9,1,9,9 instrument types,9
+149,,,,,,,,12_10,1,10,10 instrument types,10
+150,,,,,,,,12_11,1,11,11 instrument types,11
+151,,,,,,,,12_12,3,12,12 instrument types,12
+152,,,,,,,,12_13,2,13,13-20 instrument types,13-20
+153,,,,,,,,12_14,0,14,21-30 instrument types,21-30
+154,,,,,,,,12_15,1,15,31-40 instrument types,31-40
+155,,,,,,,,12_16,0,16,41- 50 instrument types,41-50
+156,,,,,,,,12_17,0,17,51-60 instrument types,51-60
+157,,,,,,,,12_18,0,18,61-70 instrument types,61-70
+158,,,,,,,,12_19,0,19,71-80 instrument types,71-80
+159,,,,,,,,12_20,0,20,81-90 instrument types,81-90
+160,,,,,,,,12_21,0,21,91-98 instrument types,91-98
+161,,,,,,,,12_22,0,22,99 instrument types or more,99 plus

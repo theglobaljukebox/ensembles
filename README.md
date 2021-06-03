@@ -5,7 +5,6 @@ For full details including detailed description of the datasets and how to use a
 
 Wood, A. L. C., Kirby, K. R., Ember, C. R., Silbert, S., Daikoku, H., McBride, J., Passmore, S., Paulay, F., Flory, M., Szinger, J., D’Arcangelo, G., Guarino, M., Atayeva, M., Rifkin, J., Baron, V., El Hajli, M., Szinger, M., & Savage, P. E. (2021). The Global Jukebox: A public database of performing arts and culture. PsyArXiv preprint. https://doi.org/10.31234/osf.io/4z97j
 
-
 This repository is for pulling, formatting, validating and cleaning the Ensembles dataset.
 
 Data is presented in three data tables within raw/
@@ -34,3 +33,4 @@ The Global Jukebox would not exist without the extensive recordings collected th
 ## Funding 
 
 The Global Jukebox has been developed with support from the National Endowment for the Arts, the National Endowment for the Humanities, the Concordia Foundation, the Rock Foundation, and Odyssey Productions.
+
